@@ -1,3 +1,6 @@
+![5](https://user-images.githubusercontent.com/63136680/171273589-5c5f64c4-0d5d-43d6-88bd-b32ea35cbcde.jpg)
+
+
 # Real Estate Analyzer
 Este é um dashboard desenvolvido apenas em Python, para análise de vendas no mercado imobiliário de Nova Iorque. Para a criação do mapa, usamos a API do Mapbox.
 
@@ -7,12 +10,17 @@ Este é um dashboard desenvolvido apenas em Python, para análise de vendas no m
 - Obter a localização dos imóveis por ordem de preço
 - Filtrar os imóveis no mapa a partir do seu tamanho
 
-## Desenvolvimento do projeto:
-Para ver o desenvolvimento do projeto completo em vídeo:
+## 💻 Projeto
+Para ver as aulas do desenvolvimento do projeto completo em vídeo:
 
-<a href = "https://asimov.academy/analise-vendas-nyc/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
+<a href = "https://asimov.academy/analise-vendas-nyc/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey"></a> 
 
-## Tecnologias Utilizadas:
+Para ver o projeto em tempo real:
+
+<a href = "https://real-estate-dash.herokuapp.com/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20em%20tempo%20real-lightgrey" target="_blank"></a> 
+
+
+## 👨‍💻 Tecnologias Utilizadas:
 
 Utilizando apenas **PYTHON** e as bibliotecas
 > - Dash
@@ -23,8 +31,8 @@ Utilizando apenas **PYTHON** e as bibliotecas
 > - NumPy 
 
 
-## Conteúdo
-Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação Web Apps e Dashboards, acesse:
+## 📜 Conteúdo
+Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criação de Web Apps e Dashboards, acesse:
 
 <a href = "https://asimov.academy/"><img src="https://img.shields.io/badge/ASIMOV-Saiba%20Mais-lightgrey" target="_blank"></a> 
 
@@ -35,7 +43,7 @@ Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criaçã
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimov.academy/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2Nc7bxvk7)
 
-contato@asimov.academy
+✉ contato@asimov.academy
 
 
 
