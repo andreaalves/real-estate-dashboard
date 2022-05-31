@@ -1,4 +1,4 @@
-# Real Estate Analiser
+# Real Estate Analyzer
 Este é um dashboard desenvolvido apenas em Python, para análise de vendas no mercado imobiliário de Nova Iorque. Para a criação do mapa, usamos a API do Mapbox.
 
 ## 🔧 Funções
